@@ -1,0 +1,52 @@
+{
+  "name": "Samuel Oyunge",
+  "tagline": "Master Guide in Training",
+  "about": "Samuel is a passionate servant leader and dedicated Master Guide in Training. He is committed to mentoring the youth, developing his skills in outdoor survival and spiritual growth, and leading by example. Through his journey, he aims to inspire others to embrace the Pathfinder spirit and build a strong foundation in Christ.",
+  "mission": "I believe in servant leadership that empowers others through mentorship, strategic vision that transforms communities, and faithful stewardship that leverages both spiritual gifts and professional skills.",
+  "dedication": "To my Heavenly Father & Lord Jesus Christ, who called me by name; to my family who supports me; and to the youth of Zimmerman SDA Church—you are why I serve.",
+  "sections": [
+    {
+      "title": "30-Day Devotion Challenge",
+      "type": "devotion-list",
+      "items": [
+        {
+          "date": "2026-02-28",
+          "bibleReading": "John 14:16–17; Acts 2:1–4",
+          "materialRead": "Acts of the Apostles, pp. 47–56",
+          "reflection": "The promise of the Spirit is not limited to any age or race. It is for every believer, unto the end. At Pentecost, fearful disciples became bold witnesses. The weak became strong. The Spirit still works through ordinary people who yield daily. We need not idly wait for a future outpouring while neglecting present duties.",
+          "application": "Today I will not wait for a special season. I will kneel before the Lord this morning, renew my consecration, and ask for the Spirit's fresh supply.",
+          "prayerFocus": "Lord, fill me afresh with Your Spirit. Not for a future season, but for today's needs. As I kneel before You, renew my vows and grant me reviving, sanctifying power.",
+          "song": "O Shepherd Divine (Hymn 192)"
+        },
+        {
+          "date": "2026-02-27",
+          "bibleReading": "Romans 3:23–24",
+          "materialRead": "Steps to Christ, pp. 62–63; Evangelism, p. 363",
+          "reflection": "We have no righteousness of our own. Christ alone is our hope. For His sake, we are accounted righteous—accepted just as if we had never sinned. He changes the heart and abides in us by faith.",
+          "application": "Today I will surrender my will to Christ, maintain connection by faith, and seek intelligent understanding of truth. My only boast is in His righteousness.",
+          "prayerFocus": "Lord, I have no righteousness of my own. Cover me with Yours. Abide in me, and give me grounded knowledge of truth.",
+          "song": "Joyful Joyful We Adore Thee (Hymn 12)"
+        },
+        {
+          "date": "2026-02-26",
+          "bibleReading": "1 Corinthians 1:30",
+          "materialRead": "The Review and Herald, June 26, 1894",
+          "reflection": "Christ is made unto us wisdom, righteousness, sanctification, and redemption. From first to last, not one successful step can be taken without Him. Love to others is simply putting on Christ.",
+          "application": "Today I will not attempt one step without consciously depending on Christ. I will let His love flow through me to others.",
+          "prayerFocus": "Lord Jesus, You are my wisdom, righteousness, sanctification, and redemption. I can take no successful step without You.",
+          "song": "My Hope Is Built on Nothing Less (Hymn 522)"
+        }
+      ]
+    },
+    {
+      "title": "Master Guide Requirements",
+      "type": "accordion",
+      "items": [
+        {
+          "title": "My Journey to Master Guide: A Call to Servant Leadership",
+          "content": "**What it means to be a Master Guide:**\n\nBeing a Master Guide is far more than a title, a badge, or a course completion certificate. It is a sacred commission. It means stepping into the role of a spiritual parent, mentor, and navigator for the next generation.\n\n**Why I want to become one:**\n\nMy deepest motivation to pursue this calling is rooted in the urgent reality of our time. We live in a generation saturated with digital noise, moral relativity, and spiritual confusion. My primary reason is to counteract the world's influence on this generation.\n\nFinally, I want to build a firm foundation and pass on a legacy. My ultimate ambition is to see these young people standing safely in the Kingdom of God. That is my highest goal, and that is why I am a Master Guide in training."
+        }
+      ]
+    }
+  ]
+}
